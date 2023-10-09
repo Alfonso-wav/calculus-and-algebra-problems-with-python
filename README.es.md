@@ -2,7 +2,7 @@
 # Cálculo y álgebra en Python - Guía paso a paso
 <!--endhide-->
 
-- Resolver los problemas utilizando cálculo, álgebra y Python.
+- Resolver les problemas utilizando cálculo, álgebra y Python.
 
 ## 🌱  Cómo iniciar este proyecto
 
